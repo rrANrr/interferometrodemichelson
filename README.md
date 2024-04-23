@@ -8,7 +8,7 @@
  En esta fase se evidenciaron los 3 patrones de interferencia correspondientes a la interferencia de dos frentes de onda casi planos, dos frentes de onda casi esféricos y un frente onda casi esférico y uno casi plano [ver aquí las imágenes obtenidas para los diferentes patrones de interferencia](link).
 
  ### Tratamiento de interferencia entre dos ondas casi planas.
- se realizó un tratamiendo de datos para la interferencia de dos ondas casi planas, el cual consistió en hallar las distancias ($\Lamba$) entre los maximos mostrados en el perfil de intensidades hallado para este patrón y relacionarlas con el ángulo relativo entre los espejos del interferómetro mediante la siguiente expresión:\\ 
+ se realizó un tratamiendo de datos para la interferencia de dos ondas casi planas, el cual consistió en hallar las distancias $\Lamba$ entre los maximos mostrados en el perfil de intensidades hallado para este patrón y relacionarlas con el ángulo relativo entre los espejos del interferómetro mediante la siguiente expresión:\\ 
  $\sin{\frac{\alpha}{2}}= \frac{\lambda}{2\Lambda}$.\\
  Se halló que para el patrón que presentaba dos franjas $\alpha= 0.018 \pm 1 ^{\circ} $ y para el de tres franjas $\alpha= 0.015 \pm 1 ^{\circ} $. Para la obtención del perfil de intensidades y de las posiciones [ver aquí el código utilizado en MatLab para este tratamiento de datos](link untitle 2).
 
