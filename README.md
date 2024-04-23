@@ -16,7 +16,7 @@
  ### Tratamiento de interferencia entre dos ondas casi esféricas.
    se realizó un tratamiendo de datos para la interferencia de dos ondas casi esféricas, el cual consistió en hallar los radios de los anillos concentricos de los máximos mostrados con el patrón, estos radios cumplen la siguiente relación:\\
    $r^{2}= k\cdot(2m -1) \cdot \lambda$.\\
-   Donde $k$ es el parámetro que determina el aumento consecutivo de los radios de los anillos, para hallarlo se buscó la pendiente de la recta existente entre $r^{2}$ vs $(2m -1) \cdot \lambda$ [ver la recta obtenida aquí](linkfotoexcel), con esto se tuvo un valor de $k= 0.189$. Para la obtención de los radios de las esferas se utilizó el siguiente código [ver aquí el código](link codigo2).
+   Donde $k$ es el parámetro que determina el aumento consecutivo de los radios de los anillos, para hallarlo se buscó la pendiente de la recta existente entre $r^{2}$ vs $(2m -1) \cdot \lambda$ [ver la recta obtenida aquí](https://github.com/rrANrr/interferometrodemichelson/blob/main/Recta%20relacion%20radios%20de%20anillos.png)), con esto se tuvo un valor de $k= 0.189$. Para la obtención de los radios de las esferas se utilizó el siguiente código [ver aquí el código](link codigo2).
    
 ## Fase 2: Evidenciamiento del corrimiento del patrón de interferencia al introducir una lámina de vidrio.
 
