@@ -5,7 +5,7 @@
  La práctia de laboratorio constó de tres experimentos con cuatro fases experimentales :
  
  ## Fase 1: Visualización de los diferentes patrones de interferencia
- En esta fase se evidenciaron los 3 patrones de interferencia correspondientes a la interferencia de dos frentes de onda casi planos, dos frentes de onda casi esféricos y un frente onda casi esférico y uno casi plano [ver aquí las imágenes obtenidas para los diferentes patrones de interferencia](link).
+ En esta fase se evidenciaron los 3 patrones de interferencia correspondientes a la interferencia de dos frentes de onda casi planos, dos frentes de onda casi esféricos y un frente onda casi esférico y uno casi plano [ver aquí las imágenes obtenidas para los diferentes patrones de interferencia](https://github.com/rrANrr/interferometrodemichelson/tree/main/imagenes%20de%20los%20patrones).
 
  ### Tratamiento de interferencia entre dos ondas casi planas.
  se realizó un tratamiendo de datos para la interferencia de dos ondas casi planas, el cual consistió en hallar las distancias $\Lamba$ entre los maximos mostrados en el perfil de intensidades hallado para este patrón y relacionarlas con el ángulo relativo entre los espejos del interferómetro mediante la siguiente expresión:\\ 
